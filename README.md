@@ -1,5 +1,6 @@
-## workshop:Binary Classification with Neural Networks on the Census Income Dataset
-
+## Workshop:Binary Classification with Neural Networks on the Census Income Dataset
+## Name:T.Roshini
+## Reg num:212223230175
 ## Aim:
 To build a binary classification model using PyTorch to predict whether an individual earns more than $50,000 annually.
 
@@ -244,23 +245,23 @@ print(f"\nThe predicted label is {predicted_label}")
 
 <img width="211" height="119" alt="image" src="https://github.com/user-attachments/assets/a1f4d218-8aea-4c62-b47a-538d8673914c" />
 
-
+### tabularModel:
 
 <img width="828" height="375" alt="image" src="https://github.com/user-attachments/assets/430e46c0-b5ee-4d32-984a-3a15318212e4" />
 
-
+### epoch:
 
 <img width="342" height="321" alt="image" src="https://github.com/user-attachments/assets/7bf7c388-e040-4444-ac90-2dd2a037ac69" />
 
-
+### Model Training Loss:
 
 <img width="686" height="522" alt="image" src="https://github.com/user-attachments/assets/3434a05d-68a1-4cf7-b5dc-5b63f49b5694" />
 
-
+### CE loss:
 
 <img width="228" height="59" alt="image" src="https://github.com/user-attachments/assets/f9495cec-8591-46f7-af41-3e9e84a4d7d8" />
 
-
+### predicted label:
 
 <img width="606" height="225" alt="image" src="https://github.com/user-attachments/assets/c8ef6820-1cc4-488c-ba06-75dd0bbf08a0" />
 
