@@ -220,27 +220,27 @@ print(f"\nThe predicted label is {predicted_label}")
 
 <img width="767" height="83" alt="image" src="https://github.com/user-attachments/assets/a86045e0-9ec7-489a-9127-6b4ab4ee0726" />
 
-### 
+### Y_col:
 
 <img width="278" height="88" alt="image" src="https://github.com/user-attachments/assets/2219cd03-ef0d-45f5-99ad-6148e0e1521c" />
 
-
+### head
 
 <img width="1093" height="223" alt="image" src="https://github.com/user-attachments/assets/03ec0200-999f-4ccd-ad0c-02dac5d530ee" />
 
-
+### emb_szs:
 
 <img width="432" height="52" alt="image" src="https://github.com/user-attachments/assets/c30bd1c9-25fe-4e37-ac16-df061b8aaef8" />
 
-
+### array:
 
 <img width="503" height="123" alt="image" src="https://github.com/user-attachments/assets/1648700b-de05-4652-a179-412c871cc957" />
 
-
+### tensor:
 
 <img width="353" height="136" alt="image" src="https://github.com/user-attachments/assets/694468a5-acea-49aa-bfaf-3413c5179922" />
 
-
+### array:
 
 <img width="211" height="119" alt="image" src="https://github.com/user-attachments/assets/a1f4d218-8aea-4c62-b47a-538d8673914c" />
 
