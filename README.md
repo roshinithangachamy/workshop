@@ -209,17 +209,18 @@ print(f"\nThe predicted label is {predicted_label}")
 
 ## Output:
 
+### head:
 <img width="1101" height="263" alt="image" src="https://github.com/user-attachments/assets/e85338f8-a9d9-47fc-83ee-85761d54628c" />
 
-
+### count:
 
 <img width="192" height="211" alt="image" src="https://github.com/user-attachments/assets/7dcd5018-eec6-4bb5-a598-9bccb7c65db6" />
 
-
+### columns:
 
 <img width="767" height="83" alt="image" src="https://github.com/user-attachments/assets/a86045e0-9ec7-489a-9127-6b4ab4ee0726" />
 
-
+### 
 
 <img width="278" height="88" alt="image" src="https://github.com/user-attachments/assets/2219cd03-ef0d-45f5-99ad-6148e0e1521c" />
 
