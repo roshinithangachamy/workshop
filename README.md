@@ -208,31 +208,58 @@ print(f"\nThe predicted label is {predicted_label}")
 ```
 
 ## Output:
+
 <img width="1101" height="263" alt="image" src="https://github.com/user-attachments/assets/e85338f8-a9d9-47fc-83ee-85761d54628c" />
+
+
 
 <img width="192" height="211" alt="image" src="https://github.com/user-attachments/assets/7dcd5018-eec6-4bb5-a598-9bccb7c65db6" />
 
+
+
 <img width="767" height="83" alt="image" src="https://github.com/user-attachments/assets/a86045e0-9ec7-489a-9127-6b4ab4ee0726" />
+
+
 
 <img width="278" height="88" alt="image" src="https://github.com/user-attachments/assets/2219cd03-ef0d-45f5-99ad-6148e0e1521c" />
 
+
+
 <img width="1093" height="223" alt="image" src="https://github.com/user-attachments/assets/03ec0200-999f-4ccd-ad0c-02dac5d530ee" />
+
+
 
 <img width="432" height="52" alt="image" src="https://github.com/user-attachments/assets/c30bd1c9-25fe-4e37-ac16-df061b8aaef8" />
 
+
+
 <img width="503" height="123" alt="image" src="https://github.com/user-attachments/assets/1648700b-de05-4652-a179-412c871cc957" />
+
+
 
 <img width="353" height="136" alt="image" src="https://github.com/user-attachments/assets/694468a5-acea-49aa-bfaf-3413c5179922" />
 
+
+
 <img width="211" height="119" alt="image" src="https://github.com/user-attachments/assets/a1f4d218-8aea-4c62-b47a-538d8673914c" />
+
+
 
 <img width="828" height="375" alt="image" src="https://github.com/user-attachments/assets/430e46c0-b5ee-4d32-984a-3a15318212e4" />
 
+
+
 <img width="342" height="321" alt="image" src="https://github.com/user-attachments/assets/7bf7c388-e040-4444-ac90-2dd2a037ac69" />
+
+
 
 <img width="686" height="522" alt="image" src="https://github.com/user-attachments/assets/3434a05d-68a1-4cf7-b5dc-5b63f49b5694" />
 
+
+
 <img width="228" height="59" alt="image" src="https://github.com/user-attachments/assets/f9495cec-8591-46f7-af41-3e9e84a4d7d8" />
+
+
 
 <img width="606" height="225" alt="image" src="https://github.com/user-attachments/assets/c8ef6820-1cc4-488c-ba06-75dd0bbf08a0" />
 
